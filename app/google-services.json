@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369945075799",
+    "firebase_url": "https://whatsup-e4603.firebaseio.com",
+    "project_id": "whatsup-e4603",
+    "storage_bucket": "whatsup-e4603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369945075799:android:a89b0a102424321942c312",
+        "android_client_info": {
+          "package_name": "com.johnsoft.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369945075799-do1nhav60rhuk93i451mvorvqdhn11iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwSrsoYNYw5TBYvk46ZWQqXMtkjsI7ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369945075799-do1nhav60rhuk93i451mvorvqdhn11iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
